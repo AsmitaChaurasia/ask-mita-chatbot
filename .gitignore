@@ -19,8 +19,10 @@ __pycache__/
 .ipynb_checkpoints/
 
 # 📂 Output / uploads (optional)
-*.csv
 *.pdf
 *.mp4
 *.wav
 *.webm
+ai relation.ipynb
+
+README.md

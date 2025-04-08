@@ -1,0 +1,12 @@
+streamlit
+pandas
+sentence-transformers
+google-generativeai
+gtts
+PyPDF2
+streamlit-webrtc
+av
+numpy
+scipy
+SpeechRecognition
+python-dotenv
