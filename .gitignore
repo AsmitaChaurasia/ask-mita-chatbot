@@ -1,0 +1,26 @@
+# 🌐 Environment
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# 💻 VSCode settings
+.vscode/
+
+# 🪵 Logs and temp files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# 📦 Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# 📂 Output / uploads (optional)
+*.csv
+*.pdf
+*.mp4
+*.wav
+*.webm
