@@ -48,7 +48,7 @@ def ask_gemini_safe(prompt, timeout=30):
         return f"❌ Gemini error: {e}"
 
 def ask_gemini_raw(prompt):
-    model = genai.GenerativeModel("gemini-1.5-pro")
+    model = genai.GenerativeModel("models/gemini-1.5-flash")
     chat = model.start_chat()
     response = chat.send_message(prompt)
     return response.text
